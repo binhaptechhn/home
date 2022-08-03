@@ -1,0 +1,133 @@
+
+
+.contact {
+    font-family: ui-sans-serif;
+    font-weight: 700;
+    width: 100%;
+    height: 1072px;
+    /* background-image: url(./img/Background\ Bubble\ \(1\).png); */
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+
+.contact-main {
+    width: 1140px;
+    height: 100%;
+    padding-top: 207px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.contact-form {
+    width: 520px;
+    height: 865px;
+}
+
+.contact-img {
+    margin-top: 170px;
+    width: 520px;
+    margin-bottom: 150px;
+}
+
+.contact-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.contact-form-title {
+    width: 100%;
+    margin-bottom: 44px;
+}
+
+.contact-form-title-header {
+    width: 100%;
+    height: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
+    color: #FF64AE;
+}
+
+.contact-form-title-heading {
+    width: 404px;
+    height: 97px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 125%;
+    /* or 45px */
+    margin-bottom: 12px;
+
+    color: #091156;
+}
+
+.contact-form-title-text {
+    width: 100%;
+    height: 28px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+
+    color: #8B8B8B;
+}
+
+.contact-form-input {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contact-form-input input {
+    padding: 17px 0;
+    padding-left: 24px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-bottom: 38px;
+    font-size: 16px;
+    /* line-height: 24px; */
+    letter-spacing: 0.1em;
+    border: 1px solid #E5E5E5;
+
+}
+
+.input-top {
+    width: 242.21px;
+
+}
+
+.input-mid {
+    width: 100%;
+}
+
+.input-buttom {
+    width: 100%;
+    height: 239.47px;
+    padding: 25px 0 186px 24px !important;
+    margin-bottom: 55px;
+
+}
+
+.contact-form-input button {
+    width: 248px;
+    height: 58px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    border: none;
+    color: #FFFFFF;
+    background: #FF64AE;
+    box-shadow: 0px 17px 22px #FFEDF6;
+    border-radius: 50px;
+}
+
+
